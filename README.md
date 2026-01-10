@@ -92,3 +92,9 @@ The system surfaced **WARN-level demand pressure** driven by specific complaint 
 
 ## Key Takeaway
 This project demonstrates **decision governance**, not dashboarding.
+
+---
+
+## 👤 Author
+**Bhavya Pandya**  
+LinkedIn: https://www.linkedin.com/in/bhavya-91p/
